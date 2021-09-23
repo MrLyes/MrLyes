@@ -82,4 +82,4 @@ My Current Workstation Specification </h2>
 
 Credits: [MrLyes](https://github.com/MrLyes)
 
-Last Edit: 22/09/2021
+Last Edit: 23/09/2021
