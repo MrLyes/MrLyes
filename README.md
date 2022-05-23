@@ -63,16 +63,7 @@ My Current Workstation Specification </h2>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrLyes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
------
-
-
-### <p align="center">🤝🏻 &nbsp;Contacte Moi<p>
-  <p align="center">
-  <a href="mailto:yes.nce@gmail.com"><img src="https://img.shields.io/badge/-lyes.nce@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-</p>
-
+	
 -----
 
 <p align="center"> 
