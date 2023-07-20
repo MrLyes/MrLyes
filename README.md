@@ -7,7 +7,6 @@
    🎓 &nbsp;Je me suis tourner dans le développement informatique depuis deux ans j’apprends en autodidacte (Python, CSS, HTML).\
    🌱 &nbsp;J'essaye d'user de mon temps libre pour m'améliore.\
    ✍️ &nbsp;J'aimerai beaucoup devenir Développeur, C'est pour cela que je commence les études dans ce domaine.\
-   📫 &nbsp;Vous pouvez m'envoyez un mail a l'adresse: lyes.nce@gmail.com.
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/507566264663670810.png"></p>
 
 -----
